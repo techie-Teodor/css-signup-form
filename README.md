@@ -1,7 +1,7 @@
 # css signup form
  HTML CSS Signup Form
 
-![[Screenshot](https://i.imgur.com/Fio4Lhw.png)
+![Screenshot](https://i.imgur.com/Fio4Lhw.png)
 
 Color Pallete
 
